@@ -32,5 +32,5 @@ jobs:
           push: true
           platforms: linux/arm64
           tags: |
-            karaashok/cfst-zi-yong:v2.3.4
+            karaashok/cfst-zi-yong:v2.3.5
             karaashok/cfst-zi-yong:latest
